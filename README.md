@@ -21,7 +21,7 @@ car-price-prediction/
 │   ├── utils.py            # Preprocessing pipeline
 │   ├── car_price_model.pkl
 │   ├── preprocessor1.pkl
-│   ├── preprocessor2 (1).pkl
+│   ├── preprocessor2.pkl
 │   └── requirements.txt
 ├── frontend/
 │   ├── streamlit_app.py
